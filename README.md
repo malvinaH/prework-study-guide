@@ -19,4 +19,4 @@ To use this Study Guide, go to each section containing notes about HTML, CSS, Ja
 
 ## License
 
-MIT License.
+Please refer to the LICENSE in the repo.
